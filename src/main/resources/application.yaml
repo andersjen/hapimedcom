@@ -61,28 +61,24 @@ hapi:
         name: hl7.fhir.dk.core
         version: 1.1.0
       medcomCore:
-        url: http://build.fhir.org/ig/hl7dk/dk-medcom-core/package.tgz
+        url: http://build.fhir.org/ig/medcomdk/dk-medcom-core/package.tgz
         name: dk.fhir.ig.dk-medcom-core
         version: 2.0.0
       medcomMess:
-        url: http://build.fhir.org/ig/hl7dk/dk-medcom-messaging/package.tgz
+        url: http://build.fhir.org/ig/medcomdk/dk-medcom-messaging/package.tgz
         name: dk.fhir.ig.dk-medcom-messaging
         version: 2.0.0
       medcomACK:
-        url: http://build.fhir.org/ig/hl7dk/dk-medcom-acknowledgement/package.tgz
+        url: http://build.fhir.org/ig/medcomdk/dk-medcom-acknowledgement/package.tgz
         name: dk.fhir.ig.dk-medcom-acknowledgement
-        version: 1.0.0
+        version: 2.0.0
       medcomCare:
-        url: http://build.fhir.org/ig/hl7dk/dk-medcom-carecommunication/package.tgz
+        url: http://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication/package.tgz
         name: dk.fhir.ig.dk-medcom-carecommunication
         version: 2.0.0
       medcomHospital:
-        url: http://build.fhir.org/ig/hl7dk/dk-medcom-hospitalnotification/package.tgz
+        url: http://build.fhir.org/ig/medcomdk/dk-medcom-hospitalnotification/package.tgz
         name: dk.fhir.ig.dk-medcom-hospitalnotification
-        version: 2.0.0
-      medcomMess:
-        url: http://build.fhir.org/ig/hl7dk/dk-medcom-messaging/package.tgz
-        name: dk.fhir.ig.dk-medcom-messaging
         version: 2.0.0
 
     #    supported_resource_types:
